@@ -35,7 +35,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
     </div>
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOOMINSEOK9&show_icons=true&theme=catppuccin_latte)   
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOOMINSEOK9&show_icons=true&theme=radical)   
 
 <!--
 **KOOMINSEOK9/KOOMINSEOK9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
