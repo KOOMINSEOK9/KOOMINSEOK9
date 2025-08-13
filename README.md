@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=d2daff&height=120&text=MinSeok's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> <br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :pencil2: What I've used </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :pencil2: What I've used </h2> <br> <br>
     <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
