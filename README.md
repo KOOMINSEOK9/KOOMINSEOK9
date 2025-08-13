@@ -31,5 +31,7 @@
     <div style="text-align: left;"> 
     <h2>🏅 Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOOMINSEOK9&show_icons=true&theme=buefy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KOOMINSEOK9&show_icons=true&theme=buefy" />
+</p>
 </div>
